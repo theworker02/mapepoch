@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/mapepoch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Map color epoch values and contrast-safe presentation helpers.",
+  "bin": {
+    "mapepoch": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/mapepoch.git"
+  },
+  "homepage": "https://theworker02.github.io/mapepoch/",
+  "keywords": [
+    "map",
+    "epoch",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
